@@ -1,1 +1,3 @@
 # Automatic-review-analyzer
+
+The objective of this project is to create a robust classifier for sentiment analysis on product reviews. Our training dataset comprises reviews from Amazon customers focusing on diverse toy products. Originally provided on a 5-point scale, the reviews have been transformed into a binary sentiment scale, with +1 indicating a positive review and -1 for a negative one. We implemented three algorithms—perceptron, average perceptron, and Pegasos. The algorithm that demonstrated superior performance was selected to construct the classifier, utilizing a word feature vector
